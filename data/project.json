@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "luzgonz-glitch",
+    "is_private": false,
+    "title": "Americo Paredes Interviews",
+    "description": "Interviews with Americo Paredes recorded in 1994 and 1995 for the Los del Valle Oral History Project by Manuel F. Medrano. This digital exhibit features three different interviews and is annotated with tags from eleven distinct categories. \n\nPart of the Los del Valle Oral History Project Archives at the Benson Latin American Collection.",
+    "language": "en",
+    "slug": "americo-paredes-interviews",
+    "creator": "luzgonz-glitch",
+    "authors": "Luz Gonzalez",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-05-12T21:35:16.875Z",
+    "updated_at": "2026-05-12T21:35:16.875Z"
   }
 }
