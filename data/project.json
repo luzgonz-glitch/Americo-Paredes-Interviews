@@ -45,10 +45,6 @@
           "category": "_uncategorized_"
         },
         {
-          "tag": "California--San Francisco",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "China",
           "category": "_uncategorized_"
         },
@@ -1543,7 +1539,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-13T21:12:47.061Z",
+    "updated_at": "2026-05-13T21:13:32.702Z",
     "generate_pages_site": true
   },
   "annotations": {},
