@@ -1,1 +1,1557 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[{"login_name":"luzgonz-glitch","avatar_url":"https://avatars.githubusercontent.com/u/232996364?v=4","admin":true}],"project":{"github_org":"luzgonz-glitch","is_private":false,"title":"Americo Paredes Interviews","description":"Interviews with Americo Paredes recorded in 1994 and 1995 for the Los del Valle Oral History Project by Manuel F. Medrano. This digital exhibit features three different interviews and is annotated with tags from eleven distinct categories. \n\nPart of the Los del Valle Oral History Project Archives at the Benson Latin American Collection.","language":"en","slug":"americo-paredes-interviews","creator":"luzgonz-glitch","authors":"Luz Gonzalez","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"color":"#ADFEFF","category":"no"}],"tags":[{"tag":"Alaska--Attu","category":"no"},{"tag":"China","category":"no"},{"tag":"Colombia","category":"no"},{"tag":"Czechoslovakia","category":"no"},{"tag":"East Asia","category":"no"},{"tag":"Europe","category":"no"},{"tag":"France","category":"no"},{"tag":"France--Paris","category":"no"},{"tag":"Germany","category":"no"},{"tag":"Great Britain","category":"no"},{"tag":"Japan","category":"no"},{"tag":"Japan--Nagoya","category":"no"},{"tag":"Korea","category":"no"},{"tag":"Latin America","category":"no"},{"tag":"Mexico","category":"no"},{"tag":"Mexico--Nuevo Leon","category":"no"},{"tag":"Mexico--Nuevo Leon--Cerralvo","category":"no"},{"tag":"Mexico--Nuevo Leon--Monterrey","category":"no"},{"tag":"Mexico--Tamaulipas","category":"no"},{"tag":"Mexico--Tamaulipas--Matamoros","category":"no"},{"tag":"Mexico--Tamaulipas--Mier","category":"no"},{"tag":"New Mexico","category":"no"},{"tag":"New York","category":"no"},{"tag":"Nueces River","category":"no"},{"tag":"Paraguay","category":"no"},{"tag":"Rio Grande River","category":"no"},{"tag":"Spain","category":"no"},{"tag":"Spain--Asturias","category":"no"},{"tag":"Spanish Province--Nuevo Santander","category":"no"},{"tag":"Mexico--Tamaulipas--Nuevo Progreso","category":"no"},{"tag":"Mexico--Tamaulipas--Río Bravo","category":"no"},{"tag":"Texas","category":"no"},{"tag":"Texas--Austin","category":"no"},{"tag":"Texas--Brownsville","category":"no"},{"tag":"Texas--Brownsville--Coolidge Street","category":"no"},{"tag":"Texas--Brownsville--Elizabeth Street","category":"no"},{"tag":"Texas--Brownsville--Garden Park","category":"no"},{"tag":"Texas--Brownsville--Kingsman","category":"no"},{"tag":"Texas--Brownsville--Las Prietas","category":"no"},{"tag":"Texas--Brownsville--Manautou Building","category":"no"},{"tag":"Texas--Brownsville--Market Square","category":"no"},{"tag":"Texas--Brownsville--Paredes Lineroad","category":"no"},{"tag":"Texas--Brownsville--Washington Street","category":"no"},{"tag":"Texas--Brownsville--White Elephant Saloon","category":"no"},{"tag":"Texas--Cameron County--El Ranchito","category":"no"},{"tag":"Texas--El Paso","category":"no"},{"tag":"Texas--Fredericksburg","category":"no"},{"tag":"Texas--La Paloma","category":"no"},{"tag":"Texas--McAllen","category":"no"},{"tag":"Texas--San Antonio","category":"no"},{"tag":"Texas--San Benito","category":"no"},{"tag":"Texas--Waxahachie","category":"no"},{"tag":"United States--Northwest","category":"no"},{"tag":"Washington--Seattle","category":"no"},{"tag":"1492","category":"no"},{"tag":"1580","category":"no"},{"tag":"1749","category":"no"},{"tag":"1820","category":"no"},{"tag":"1860s","category":"no"},{"tag":"1910s","category":"no"},{"tag":"1915","category":"no"},{"tag":"1915-09-03","category":"no"},{"tag":"1916","category":"no"},{"tag":"1920","category":"no"},{"tag":"1921","category":"no"},{"tag":"1929","category":"no"},{"tag":"1936","category":"no"},{"tag":"1939","category":"no"},{"tag":"1940","category":"no"},{"tag":"1944","category":"no"},{"tag":"1946","category":"no"},{"tag":"1950","category":"no"},{"tag":"1950s","category":"no"},{"tag":"1951","category":"no"},{"tag":"1963","category":"no"},{"tag":"1970s","category":"no"},{"tag":"1991","category":"no"},{"tag":"Acuña, Ricardo","category":"no"},{"tag":"Armendariz, Efraim Pacillas 1938-2013","category":"no"},{"tag":"Barrera, Aida","category":"no"},{"tag":"Carvajal El Mozo, Luis de 1567-1597","category":"no"},{"tag":"Carvajal y de la Cueva, Luis de","category":"no"},{"tag":"Castaneda, Carlos","category":"no"},{"tag":"Castaneda, Josefina","category":"no"},{"tag":"Cortez, Gregorio, 1875-1916","category":"no"},{"tag":"Crixelle, José","category":"no"},{"tag":"Cuellar, Romo","category":"no"},{"tag":"Delacroix, Unidentified","category":"no"},{"tag":"Diaz, Porfirio 1830-1915","category":"no"},{"tag":"Dobie, James Frank 1888-1964","category":"no"},{"tag":"Dugger, Ronald Edward","category":"no"},{"tag":"Erwin, Frank Craig, Jr 1920–1980","category":"no"},{"tag":"Escandon, Jose de","category":"no"},{"tag":"Garcia, Bobby","category":"no"},{"tag":"Garza, Catarino 1859-1895","category":"no"},{"tag":"Garza, Encarnación","category":"no"},{"tag":"Garza, Jesus","category":"no"},{"tag":"Garza, Orlando","category":"no"},{"tag":"Graham, Joe Stanley","category":"no"},{"tag":"Hawkins, John, Sir 1532-1595","category":"no"},{"tag":"Hinojosa-Smith, Rolando 1929-2012","category":"no"},{"tag":"Hudson, Hubert R 1888-1940","category":"no"},{"tag":"Irving, Red","category":"no"},{"tag":"Jiménez, Flaco","category":"no"},{"tag":"Jiménez, Santiago, Jr","category":"no"},{"tag":"Jiménez, Santiago, Sr","category":"no"},{"tag":"Kenedy, Mifflin 1818-1895","category":"no"},{"tag":"Kenedy, Petra Vela 1823-1885","category":"no"},{"tag":"King, Robert D 1936-2023","category":"no"},{"tag":"Klahn-Sabas 1915-1992","category":"no"},{"tag":"Klahn, Sabas 1915-1992","category":"no"},{"tag":"la Garza, Rodolfo de, 1942-2019","category":"no"},{"tag":"Langford, Gerald","category":"no"},{"tag":"Lavios, Alfredo","category":"no"},{"tag":"Limón, José E 1944-","category":"no"},{"tag":"Manautou, Enrique","category":"no"},{"tag":"Manzano Paredes, Eleazar","category":"no"},{"tag":"Manzano-Vidal, Clotilde","category":"no"},{"tag":"Martínez, Narcíso 1911-1992","category":"no"},{"tag":"Martínez, Norberto","category":"no"},{"tag":"Medrano, Manuel, 1949-","category":"no"},{"tag":"Mendoza, Lydia 1916-2007","category":"no"},{"tag":"Montelongo, Ignacio","category":"no"},{"tag":"Morán, Miguel","category":"no"},{"tag":"Paredes, Americo 1915-1999","category":"no"},{"tag":"Paredes, Eliseo","category":"no"},{"tag":"Paredes, Justo","category":"no"},{"tag":"Peña, Manuel H 1942-","category":"no"},{"tag":"Perales, Alonso S, 1898-1960","category":"no"},{"tag":"Perez, Unidentified","category":"no"},{"tag":"Ramirez, Roberto","category":"no"},{"tag":"Ranger McAllister","category":"no"},{"tag":"Romo, Harriet","category":"no"},{"tag":"Romo, Ricardo 1943-","category":"no"},{"tag":"Roosevelt, Franklin D 1882-1945","category":"no"},{"tag":"Rosas, Juventino, 1868-1894","category":"no"},{"tag":"Sánchez, George Isidore, 1906-1972","category":"no"},{"tag":"Serrata, Matías","category":"no"},{"tag":"Silber, John, 1926-2012","category":"no"},{"tag":"Simmen, Edward","category":"no"},{"tag":"Stilwell, Hart, 1902-1975","category":"no"},{"tag":"Strachwitz, Chris","category":"no"},{"tag":"Treviño, Ignacio","category":"no"},{"tag":"Treviño, Jacinto","category":"no"},{"tag":"Unidentified Nephew","category":"no"},{"tag":"Unidentified, King","category":"no"},{"tag":"Unidentified, Vicente","category":"no"},{"tag":"Valentín, Enrique F","category":"no"},{"tag":"Vidal, Alberto","category":"no"},{"tag":"Vidal, Bernardo","category":"no"},{"tag":"Vidal, Guadalupe","category":"no"},{"tag":"Vidal, Jose Maria","category":"no"},{"tag":"Vidal, José María","category":"no"},{"tag":"Vidal, Librado","category":"no"},{"tag":"Vidal, Luis 1813-1849","category":"no"},{"tag":"Vidal, Pilar","category":"no"},{"tag":"Vidal, Refugia","category":"no"},{"tag":"Washington, George 1732-1799","category":"no"},{"tag":"Whitman, Walt 1819-1892","category":"no"},{"tag":"Wierbiski, Unidentified","category":"no"},{"tag":"Zavaleta, Antonio 1947-","category":"no"},{"tag":"Zavaleta, Bruno","category":"no"},{"tag":"Accordion","category":"no"},{"tag":"Agriculture","category":"no"},{"tag":"Anglos","category":"no"},{"tag":"Assimilation","category":"no"},{"tag":"Attu, Battle of, Alaska, 1943","category":"no"},{"tag":"Authors--Autographs","category":"no"},{"tag":"Ballads","category":"no"},{"tag":"Braceros","category":"no"},{"tag":"Bullying","category":"no"},{"tag":"Charro Days--History","category":"no"},{"tag":"Citizenship","category":"no"},{"tag":"Colonization","category":"no"},{"tag":"Communist Party","category":"no"},{"tag":"Cultural heritage","category":"no"},{"tag":"Curanderismo","category":"no"},{"tag":"Décimas--Poetry","category":"no"},{"tag":"Education","category":"no"},{"tag":"Emigration and immigration","category":"no"},{"tag":"Ethnic cleansing","category":"no"},{"tag":"Folk tale","category":"no"},{"tag":"Gambling","category":"no"},{"tag":"Genealogy","category":"no"},{"tag":"Germans","category":"no"},{"tag":"Graduation speeches","category":"no"},{"tag":"Grants","category":"no"},{"tag":"Great Depression","category":"no"},{"tag":"Heart condition","category":"no"},{"tag":"Income--Effect of inflation on","category":"no"},{"tag":"Intermarriage","category":"no"},{"tag":"Journalism","category":"no"},{"tag":"Judaism","category":"no"},{"tag":"Law Enforcement","category":"no"},{"tag":"Legends","category":"no"},{"tag":"Mexicans","category":"no"},{"tag":"Migration","category":"no"},{"tag":"Monroe doctrine","category":"no"},{"tag":"Music--History","category":"no"},{"tag":"New Deal, 1933-1939","category":"no"},{"tag":"Oral history","category":"no"},{"tag":"Oral Tradition","category":"no"},{"tag":"Pacemaker","category":"no"},{"tag":"Poetry","category":"no"},{"tag":"Prejudice","category":"no"},{"tag":"Prohibition","category":"no"},{"tag":"Racism","category":"no"},{"tag":"Radio","category":"no"},{"tag":"Ranching","category":"no"},{"tag":"Religious conversion","category":"no"},{"tag":"Religious persecution","category":"no"},{"tag":"Scholarships","category":"no"},{"tag":"Short stories","category":"no"},{"tag":"Smuggling--Alcohol","category":"no"},{"tag":"Stereotypes","category":"no"},{"tag":"Stock Market Crash, 1929","category":"no"},{"tag":"Street names--Presidents","category":"no"},{"tag":"Street names--Saints","category":"no"},{"tag":"Tejano Music","category":"no"},{"tag":"Texas Rangers","category":"no"},{"tag":"The Great Depression","category":"no"},{"tag":"Tuberculosis","category":"no"},{"tag":"Voting--Law and legislation","category":"no"},{"tag":"Western films","category":"no"},{"tag":"World War, 1939-1945","category":"no"},{"tag":"The Ballad of Gregorio Cortez--Film","category":"no"},{"tag":"Ancestry","category":"no"},{"tag":"Childhood Friends","category":"no"},{"tag":"Colleagues","category":"no"},{"tag":"Extended Family","category":"no"},{"tag":"Friends","category":"no"},{"tag":"Grandparents","category":"no"},{"tag":"Hinojosa-Cisneros","category":"no"},{"tag":"Immediate Family","category":"no"},{"tag":"Mentors","category":"no"},{"tag":"Vidal","category":"no"},{"tag":"Bilinigualism","category":"no"},{"tag":"Castaña--Storage","category":"no"},{"tag":"Catalán","category":"no"},{"tag":"Code switching","category":"no"},{"tag":"English language rule","category":"no"},{"tag":"French language","category":"no"},{"tag":"Galicia language","category":"no"},{"tag":"German language","category":"no"},{"tag":"Language barrier","category":"no"},{"tag":"Mojado","category":"no"},{"tag":"Nahuatl","category":"no"},{"tag":"Spanish idiom","category":"no"},{"tag":"Spanish language","category":"no"},{"tag":"Swahili language","category":"no"},{"tag":"Wetback","category":"no"},{"tag":"A Texas-Mexican Cancionero, Folksongs of the Lower Border","category":"no"},{"tag":"Border City","category":"no"},{"tag":"En defensa de mi raza","category":"no"},{"tag":"George Washington Gomez","category":"no"},{"tag":"Leaves of Grass","category":"no"},{"tag":"The Chicano, From Caricature to Self-Portrait","category":"no"},{"tag":"The Hammon and the Beans","category":"no"},{"tag":"The Roadrunner in Fact and Folk-lore","category":"no"},{"tag":"The Shadow","category":"no"},{"tag":"The Texas-Mexican Conjunto","category":"no"},{"tag":"With His Pistol in His Hand","category":"no"},{"tag":"American Red Cross","category":"no"},{"tag":"Armed Forces","category":"no"},{"tag":"Brownsville Title Company","category":"no"},{"tag":"Criminal Investigation Division","category":"no"},{"tag":"LULAC-League of United Latin American Citizens","category":"no"},{"tag":"Matthias Hohner AG","category":"no"},{"tag":"Morning Star--Newspaper","category":"no"},{"tag":"Pan American Airways","category":"no"},{"tag":"The Brownsville Herald--Newspaper","category":"no"},{"tag":"The Monitor--Newspaper","category":"no"},{"tag":"The Texas Observer","category":"no"},{"tag":"United Foods","category":"no"},{"tag":"United States Air Force","category":"no"},{"tag":"United States Army","category":"no"},{"tag":"United States Navy","category":"no"},{"tag":"Victor Talking Machine Company","category":"no"},{"tag":"Anthropology","category":"no"},{"tag":"Archeology","category":"no"},{"tag":"Armed Forces College","category":"no"},{"tag":"Bachelor of arts degree","category":"no"},{"tag":"Black studies","category":"no"},{"tag":"Brownsville Junior College","category":"no"},{"tag":"California State University, Sacramento","category":"no"},{"tag":"College education","category":"no"},{"tag":"Doctor of philosophy degree","category":"no"},{"tag":"Ethnic studies","category":"no"},{"tag":"Folk Medicine","category":"no"},{"tag":"Folklore","category":"no"},{"tag":"Folklore Center","category":"no"},{"tag":"High School","category":"no"},{"tag":"Humanities","category":"no"},{"tag":"Master of arts degree","category":"no"},{"tag":"Mathematics","category":"no"},{"tag":"Mexican-American studies","category":"no"},{"tag":"Mexican-American Studies Center","category":"no"},{"tag":"Pharmacology","category":"no"},{"tag":"PhD","category":"no"},{"tag":"Physical Anthropology","category":"no"},{"tag":"Poetry Contest","category":"no"},{"tag":"Public schools","category":"no"},{"tag":"Screaming Eagles","category":"no"},{"tag":"Socio-cultural Anthropology","category":"no"},{"tag":"Sociolinguistics","category":"no"},{"tag":"St Josephs--School","category":"no"},{"tag":"The University of Texas","category":"no"},{"tag":"Trinity College","category":"no"},{"tag":"Accordion--Instrument","category":"no"},{"tag":"Conjunto--Genre","category":"no"},{"tag":"Corrido de Gregorio Cortez","category":"no"},{"tag":"Corrido de Ignacio Treviño","category":"no"},{"tag":"Corrido de Jacinto Treviño","category":"no"},{"tag":"Corridos--Genre","category":"no"},{"tag":"Folk song--Religious","category":"no"},{"tag":"Guitar--Instrument","category":"no"},{"tag":"Juventino Rosas--Waltz--Sobre Las Olas","category":"no"},{"tag":"Musicians--Texas","category":"no"},{"tag":"Polkas--Genre","category":"no"},{"tag":"Radio","category":"no"},{"tag":"Songwriting","category":"no"},{"tag":"Grapefruit orchards","category":"no"},{"tag":"Beach","category":"no"},{"tag":"Reeds","category":"no"},{"tag":"River","category":"no"},{"tag":"Ranch","category":"no"},{"tag":"Chaya","category":"no"},{"tag":"Cotton fields","category":"no"},{"tag":"Campfires","category":"no"},{"tag":"Paredes, Américo 1915-1999","category":"no"},{"tag":"Medrano, Manuel 1949-","category":"no"},{"category":"no","tag":"Unidentified"},{"category":"no","tag":"University of Texas"},{"category":"no","tag":"Inquisition--Mexico"},{"category":"no","tag":"Oral tradition"},{"category":"no","tag":"English language language"},{"category":"no","tag":"Bilingualismism"},{"category":"no","tag":"Mexican Revolution, Mexico, 1910-1920"},{"category":"no","tag":"Mexican Revolution, Mexico, 1923-1924"},{"category":"no","tag":"English language language rule"},{"category":"no","tag":"English language"},{"category":"no","tag":"Bilingualism"},{"category":"no","tag":"US Servicemens Readjustment Act of 1944"},{"category":"no","tag":"Unidentified Nephew"},{"category":"no","tag":"Paredes, Amelia Sidzu Nagamine"},{"category":"no","tag":"Unidentified Man"},{"category":"no","tag":"Zavaleta, Antonio 1947-"},{"category":"no","tag":"St Josephs-School"},{"category":"no","tag":"Unidentified man"},{"category":"no","tag":"Publishing"},{"category":"no","tag":"The Chicano, from Caricature to Self-Portrait"},{"category":"no","tag":""},{"category":"no","tag":"Longfellow, Henry Wadsworth, 1807-1877"},{"category":"no","tag":"Extended family"},{"category":"no","tag":"Longfellow, Henry Wadsworth, 1807-1878"},{"category":"no","tag":"Longfellow, Henry Wadsworth, 1807-1879"},{"category":"no","tag":"Longfellow, Henry Wadsworth, 1807-1880"},{"category":"no","tag":"Longfellow, Henry Wadsworth, 1807-1881"},{"category":"no","tag":"Longfellow, Henry Wadsworth, 1807-1882"},{"category":"no","tag":"Longfellow, Henry Wadsworth, 1807-1883"},{"category":"no","tag":"Longfellow, Henry Wadsworth, 1807-1884"},{"category":"no","tag":"Immediate family"},{"category":"no","tag":"1994-09-22"},{"category":"no","tag":"Border Troubles"},{"category":"no","tag":"Paredes, Americo, 1915-1999"},{"category":"no","tag":"Hinojosa-Smith, Rolando, 1929-2012"},{"category":"no","tag":"Carvajal El Mozo, Luis de, 1567-1597"},{"category":"no","tag":"Kenedy, Mifflin, 1818-1895"},{"category":"no","tag":"Kenedy, Petra Vela, 1823-1885"},{"category":"no","tag":"Vidal, Luis, 1813-1849"},{"category":"no","tag":"Garza, Catarino, 1859-1895"},{"category":"no","tag":"Diaz, Porfirio, 1830-1915"},{"category":"no","tag":"Dobie, James Frank, 1888-1964"},{"category":"no","tag":"Folk tales"}]},"created_at":"2026-05-12T21:35:16.875Z","updated_at":"2026-05-13T21:16:42.415Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"7700101e-4379-4280-8f44-f3b901e5e053":{"content":[],"created_at":"2026-05-12T21:35:16.879Z","created_by":"luzgonz-glitch","title":"Americo Paredes Interviews","updated_at":"2026-05-12T21:35:16.879Z","updated_by":"luzgonz-glitch","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["7700101e-4379-4280-8f44-f3b901e5e053"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [
+    {
+      "login_name": "luzgonz-glitch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/232996364?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "luzgonz-glitch",
+    "is_private": false,
+    "title": "Americo Paredes Interviews",
+    "description": "Interviews with Americo Paredes recorded in 1994 and 1995 for the Los del Valle Oral History Project by Manuel F. Medrano. This digital exhibit features three different interviews and is annotated with tags from eleven distinct categories. \n\nPart of the Los del Valle Oral History Project Archives at the Benson Latin American Collection.",
+    "language": "en",
+    "slug": "americo-paredes-interviews",
+    "creator": "luzgonz-glitch",
+    "authors": "Luz Gonzalez",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "color": "#ADFEFF",
+          "category": "no"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Alaska--Attu",
+          "category": "no"
+        },
+        {
+          "tag": "China",
+          "category": "no"
+        },
+        {
+          "tag": "Colombia",
+          "category": "no"
+        },
+        {
+          "tag": "Czechoslovakia",
+          "category": "no"
+        },
+        {
+          "tag": "East Asia",
+          "category": "no"
+        },
+        {
+          "tag": "Europe",
+          "category": "no"
+        },
+        {
+          "tag": "France",
+          "category": "no"
+        },
+        {
+          "tag": "France--Paris",
+          "category": "no"
+        },
+        {
+          "tag": "Germany",
+          "category": "no"
+        },
+        {
+          "tag": "Great Britain",
+          "category": "no"
+        },
+        {
+          "tag": "Japan",
+          "category": "no"
+        },
+        {
+          "tag": "Japan--Nagoya",
+          "category": "no"
+        },
+        {
+          "tag": "Korea",
+          "category": "no"
+        },
+        {
+          "tag": "Latin America",
+          "category": "no"
+        },
+        {
+          "tag": "Mexico",
+          "category": "no"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon",
+          "category": "no"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Cerralvo",
+          "category": "no"
+        },
+        {
+          "tag": "Mexico--Nuevo Leon--Monterrey",
+          "category": "no"
+        },
+        {
+          "tag": "Mexico--Tamaulipas",
+          "category": "no"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Matamoros",
+          "category": "no"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Mier",
+          "category": "no"
+        },
+        {
+          "tag": "New Mexico",
+          "category": "no"
+        },
+        {
+          "tag": "New York",
+          "category": "no"
+        },
+        {
+          "tag": "Nueces River",
+          "category": "no"
+        },
+        {
+          "tag": "Paraguay",
+          "category": "no"
+        },
+        {
+          "tag": "Rio Grande River",
+          "category": "no"
+        },
+        {
+          "tag": "Spain",
+          "category": "no"
+        },
+        {
+          "tag": "Spain--Asturias",
+          "category": "no"
+        },
+        {
+          "tag": "Spanish Province--Nuevo Santander",
+          "category": "no"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Nuevo Progreso",
+          "category": "no"
+        },
+        {
+          "tag": "Mexico--Tamaulipas--Río Bravo",
+          "category": "no"
+        },
+        {
+          "tag": "Texas",
+          "category": "no"
+        },
+        {
+          "tag": "Texas--Austin",
+          "category": "no"
+        },
+        {
+          "tag": "Texas--Brownsville",
+          "category": "no"
+        },
+        {
+          "tag": "Texas--Brownsville--Coolidge Street",
+          "category": "no"
+        },
+        {
+          "tag": "Texas--Brownsville--Elizabeth Street",
+          "category": "no"
+        },
+        {
+          "tag": "Texas--Brownsville--Garden Park",
+          "category": "no"
+        },
+        {
+          "tag": "Texas--Brownsville--Kingsman",
+          "category": "no"
+        },
+        {
+          "tag": "Texas--Brownsville--Las Prietas",
+          "category": "no"
+        },
+        {
+          "tag": "Texas--Brownsville--Manautou Building",
+          "category": "no"
+        },
+        {
+          "tag": "Texas--Brownsville--Market Square",
+          "category": "no"
+        },
+        {
+          "tag": "Texas--Brownsville--Paredes Lineroad",
+          "category": "no"
+        },
+        {
+          "tag": "Texas--Brownsville--Washington Street",
+          "category": "no"
+        },
+        {
+          "tag": "Texas--Brownsville--White Elephant Saloon",
+          "category": "no"
+        },
+        {
+          "tag": "Texas--Cameron County--El Ranchito",
+          "category": "no"
+        },
+        {
+          "tag": "Texas--El Paso",
+          "category": "no"
+        },
+        {
+          "tag": "Texas--Fredericksburg",
+          "category": "no"
+        },
+        {
+          "tag": "Texas--La Paloma",
+          "category": "no"
+        },
+        {
+          "tag": "Texas--McAllen",
+          "category": "no"
+        },
+        {
+          "tag": "Texas--San Antonio",
+          "category": "no"
+        },
+        {
+          "tag": "Texas--San Benito",
+          "category": "no"
+        },
+        {
+          "tag": "Texas--Waxahachie",
+          "category": "no"
+        },
+        {
+          "tag": "United States--Northwest",
+          "category": "no"
+        },
+        {
+          "tag": "Washington--Seattle",
+          "category": "no"
+        },
+        {
+          "tag": "1492",
+          "category": "no"
+        },
+        {
+          "tag": "1580",
+          "category": "no"
+        },
+        {
+          "tag": "1749",
+          "category": "no"
+        },
+        {
+          "tag": "1820",
+          "category": "no"
+        },
+        {
+          "tag": "1860s",
+          "category": "no"
+        },
+        {
+          "tag": "1910s",
+          "category": "no"
+        },
+        {
+          "tag": "1915",
+          "category": "no"
+        },
+        {
+          "tag": "1915-09-03",
+          "category": "no"
+        },
+        {
+          "tag": "1916",
+          "category": "no"
+        },
+        {
+          "tag": "1920",
+          "category": "no"
+        },
+        {
+          "tag": "1921",
+          "category": "no"
+        },
+        {
+          "tag": "1929",
+          "category": "no"
+        },
+        {
+          "tag": "1936",
+          "category": "no"
+        },
+        {
+          "tag": "1939",
+          "category": "no"
+        },
+        {
+          "tag": "1940",
+          "category": "no"
+        },
+        {
+          "tag": "1944",
+          "category": "no"
+        },
+        {
+          "tag": "1946",
+          "category": "no"
+        },
+        {
+          "tag": "1950",
+          "category": "no"
+        },
+        {
+          "tag": "1950s",
+          "category": "no"
+        },
+        {
+          "tag": "1951",
+          "category": "no"
+        },
+        {
+          "tag": "1963",
+          "category": "no"
+        },
+        {
+          "tag": "1970s",
+          "category": "no"
+        },
+        {
+          "tag": "1991",
+          "category": "no"
+        },
+        {
+          "tag": "Acuña, Ricardo",
+          "category": "no"
+        },
+        {
+          "tag": "Armendariz, Efraim Pacillas 1938-2013",
+          "category": "no"
+        },
+        {
+          "tag": "Barrera, Aida",
+          "category": "no"
+        },
+        {
+          "tag": "Carvajal El Mozo, Luis de 1567-1597",
+          "category": "no"
+        },
+        {
+          "tag": "Carvajal y de la Cueva, Luis de",
+          "category": "no"
+        },
+        {
+          "tag": "Castaneda, Carlos",
+          "category": "no"
+        },
+        {
+          "tag": "Castaneda, Josefina",
+          "category": "no"
+        },
+        {
+          "tag": "Cortez, Gregorio, 1875-1916",
+          "category": "no"
+        },
+        {
+          "tag": "Crixelle, José",
+          "category": "no"
+        },
+        {
+          "tag": "Cuellar, Romo",
+          "category": "no"
+        },
+        {
+          "tag": "Delacroix, Unidentified",
+          "category": "no"
+        },
+        {
+          "tag": "Diaz, Porfirio 1830-1915",
+          "category": "no"
+        },
+        {
+          "tag": "Dobie, James Frank 1888-1964",
+          "category": "no"
+        },
+        {
+          "tag": "Dugger, Ronald Edward",
+          "category": "no"
+        },
+        {
+          "tag": "Erwin, Frank Craig, Jr 1920–1980",
+          "category": "no"
+        },
+        {
+          "tag": "Escandon, Jose de",
+          "category": "no"
+        },
+        {
+          "tag": "Garcia, Bobby",
+          "category": "no"
+        },
+        {
+          "tag": "Garza, Catarino 1859-1895",
+          "category": "no"
+        },
+        {
+          "tag": "Garza, Encarnación",
+          "category": "no"
+        },
+        {
+          "tag": "Garza, Jesus",
+          "category": "no"
+        },
+        {
+          "tag": "Garza, Orlando",
+          "category": "no"
+        },
+        {
+          "tag": "Graham, Joe Stanley",
+          "category": "no"
+        },
+        {
+          "tag": "Hawkins, John, Sir 1532-1595",
+          "category": "no"
+        },
+        {
+          "tag": "Hinojosa-Smith, Rolando 1929-2012",
+          "category": "no"
+        },
+        {
+          "tag": "Hudson, Hubert R 1888-1940",
+          "category": "no"
+        },
+        {
+          "tag": "Irving, Red",
+          "category": "no"
+        },
+        {
+          "tag": "Jiménez, Flaco",
+          "category": "no"
+        },
+        {
+          "tag": "Jiménez, Santiago, Jr",
+          "category": "no"
+        },
+        {
+          "tag": "Jiménez, Santiago, Sr",
+          "category": "no"
+        },
+        {
+          "tag": "Kenedy, Mifflin 1818-1895",
+          "category": "no"
+        },
+        {
+          "tag": "Kenedy, Petra Vela 1823-1885",
+          "category": "no"
+        },
+        {
+          "tag": "King, Robert D 1936-2023",
+          "category": "no"
+        },
+        {
+          "tag": "Klahn-Sabas 1915-1992",
+          "category": "no"
+        },
+        {
+          "tag": "Klahn, Sabas 1915-1992",
+          "category": "no"
+        },
+        {
+          "tag": "la Garza, Rodolfo de, 1942-2019",
+          "category": "no"
+        },
+        {
+          "tag": "Langford, Gerald",
+          "category": "no"
+        },
+        {
+          "tag": "Lavios, Alfredo",
+          "category": "no"
+        },
+        {
+          "tag": "Limón, José E 1944-",
+          "category": "no"
+        },
+        {
+          "tag": "Manautou, Enrique",
+          "category": "no"
+        },
+        {
+          "tag": "Manzano Paredes, Eleazar",
+          "category": "no"
+        },
+        {
+          "tag": "Manzano-Vidal, Clotilde",
+          "category": "no"
+        },
+        {
+          "tag": "Martínez, Narcíso 1911-1992",
+          "category": "no"
+        },
+        {
+          "tag": "Martínez, Norberto",
+          "category": "no"
+        },
+        {
+          "tag": "Medrano, Manuel, 1949-",
+          "category": "no"
+        },
+        {
+          "tag": "Mendoza, Lydia 1916-2007",
+          "category": "no"
+        },
+        {
+          "tag": "Montelongo, Ignacio",
+          "category": "no"
+        },
+        {
+          "tag": "Morán, Miguel",
+          "category": "no"
+        },
+        {
+          "tag": "Paredes, Americo 1915-1999",
+          "category": "no"
+        },
+        {
+          "tag": "Paredes, Eliseo",
+          "category": "no"
+        },
+        {
+          "tag": "Paredes, Justo",
+          "category": "no"
+        },
+        {
+          "tag": "Peña, Manuel H 1942-",
+          "category": "no"
+        },
+        {
+          "tag": "Perales, Alonso S, 1898-1960",
+          "category": "no"
+        },
+        {
+          "tag": "Perez, Unidentified",
+          "category": "no"
+        },
+        {
+          "tag": "Ramirez, Roberto",
+          "category": "no"
+        },
+        {
+          "tag": "Ranger McAllister",
+          "category": "no"
+        },
+        {
+          "tag": "Romo, Harriet",
+          "category": "no"
+        },
+        {
+          "tag": "Romo, Ricardo 1943-",
+          "category": "no"
+        },
+        {
+          "tag": "Roosevelt, Franklin D 1882-1945",
+          "category": "no"
+        },
+        {
+          "tag": "Rosas, Juventino, 1868-1894",
+          "category": "no"
+        },
+        {
+          "tag": "Sánchez, George Isidore, 1906-1972",
+          "category": "no"
+        },
+        {
+          "tag": "Serrata, Matías",
+          "category": "no"
+        },
+        {
+          "tag": "Silber, John, 1926-2012",
+          "category": "no"
+        },
+        {
+          "tag": "Simmen, Edward",
+          "category": "no"
+        },
+        {
+          "tag": "Stilwell, Hart, 1902-1975",
+          "category": "no"
+        },
+        {
+          "tag": "Strachwitz, Chris",
+          "category": "no"
+        },
+        {
+          "tag": "Treviño, Ignacio",
+          "category": "no"
+        },
+        {
+          "tag": "Treviño, Jacinto",
+          "category": "no"
+        },
+        {
+          "tag": "Unidentified Nephew",
+          "category": "no"
+        },
+        {
+          "tag": "Unidentified, King",
+          "category": "no"
+        },
+        {
+          "tag": "Unidentified, Vicente",
+          "category": "no"
+        },
+        {
+          "tag": "Valentín, Enrique F",
+          "category": "no"
+        },
+        {
+          "tag": "Vidal, Alberto",
+          "category": "no"
+        },
+        {
+          "tag": "Vidal, Bernardo",
+          "category": "no"
+        },
+        {
+          "tag": "Vidal, Guadalupe",
+          "category": "no"
+        },
+        {
+          "tag": "Vidal, Jose Maria",
+          "category": "no"
+        },
+        {
+          "tag": "Vidal, José María",
+          "category": "no"
+        },
+        {
+          "tag": "Vidal, Librado",
+          "category": "no"
+        },
+        {
+          "tag": "Vidal, Luis 1813-1849",
+          "category": "no"
+        },
+        {
+          "tag": "Vidal, Pilar",
+          "category": "no"
+        },
+        {
+          "tag": "Vidal, Refugia",
+          "category": "no"
+        },
+        {
+          "tag": "Washington, George 1732-1799",
+          "category": "no"
+        },
+        {
+          "tag": "Whitman, Walt 1819-1892",
+          "category": "no"
+        },
+        {
+          "tag": "Wierbiski, Unidentified",
+          "category": "no"
+        },
+        {
+          "tag": "Zavaleta, Antonio 1947-",
+          "category": "no"
+        },
+        {
+          "tag": "Zavaleta, Bruno",
+          "category": "no"
+        },
+        {
+          "tag": "Accordion",
+          "category": "no"
+        },
+        {
+          "tag": "Agriculture",
+          "category": "no"
+        },
+        {
+          "tag": "Anglos",
+          "category": "no"
+        },
+        {
+          "tag": "Assimilation",
+          "category": "no"
+        },
+        {
+          "tag": "Attu, Battle of, Alaska, 1943",
+          "category": "no"
+        },
+        {
+          "tag": "Authors--Autographs",
+          "category": "no"
+        },
+        {
+          "tag": "Ballads",
+          "category": "no"
+        },
+        {
+          "tag": "Braceros",
+          "category": "no"
+        },
+        {
+          "tag": "Bullying",
+          "category": "no"
+        },
+        {
+          "tag": "Charro Days--History",
+          "category": "no"
+        },
+        {
+          "tag": "Citizenship",
+          "category": "no"
+        },
+        {
+          "tag": "Colonization",
+          "category": "no"
+        },
+        {
+          "tag": "Communist Party",
+          "category": "no"
+        },
+        {
+          "tag": "Cultural heritage",
+          "category": "no"
+        },
+        {
+          "tag": "Curanderismo",
+          "category": "no"
+        },
+        {
+          "tag": "Décimas--Poetry",
+          "category": "no"
+        },
+        {
+          "tag": "Education",
+          "category": "no"
+        },
+        {
+          "tag": "Emigration and immigration",
+          "category": "no"
+        },
+        {
+          "tag": "Ethnic cleansing",
+          "category": "no"
+        },
+        {
+          "tag": "Folk tale",
+          "category": "no"
+        },
+        {
+          "tag": "Gambling",
+          "category": "no"
+        },
+        {
+          "tag": "Genealogy",
+          "category": "no"
+        },
+        {
+          "tag": "Germans",
+          "category": "no"
+        },
+        {
+          "tag": "Graduation speeches",
+          "category": "no"
+        },
+        {
+          "tag": "Grants",
+          "category": "no"
+        },
+        {
+          "tag": "Great Depression",
+          "category": "no"
+        },
+        {
+          "tag": "Heart condition",
+          "category": "no"
+        },
+        {
+          "tag": "Income--Effect of inflation on",
+          "category": "no"
+        },
+        {
+          "tag": "Intermarriage",
+          "category": "no"
+        },
+        {
+          "tag": "Journalism",
+          "category": "no"
+        },
+        {
+          "tag": "Judaism",
+          "category": "no"
+        },
+        {
+          "tag": "Law Enforcement",
+          "category": "no"
+        },
+        {
+          "tag": "Legends",
+          "category": "no"
+        },
+        {
+          "tag": "Mexicans",
+          "category": "no"
+        },
+        {
+          "tag": "Migration",
+          "category": "no"
+        },
+        {
+          "tag": "Monroe doctrine",
+          "category": "no"
+        },
+        {
+          "tag": "Music--History",
+          "category": "no"
+        },
+        {
+          "tag": "New Deal, 1933-1939",
+          "category": "no"
+        },
+        {
+          "tag": "Oral history",
+          "category": "no"
+        },
+        {
+          "tag": "Oral Tradition",
+          "category": "no"
+        },
+        {
+          "tag": "Pacemaker",
+          "category": "no"
+        },
+        {
+          "tag": "Poetry",
+          "category": "no"
+        },
+        {
+          "tag": "Prejudice",
+          "category": "no"
+        },
+        {
+          "tag": "Prohibition",
+          "category": "no"
+        },
+        {
+          "tag": "Racism",
+          "category": "no"
+        },
+        {
+          "tag": "Radio",
+          "category": "no"
+        },
+        {
+          "tag": "Ranching",
+          "category": "no"
+        },
+        {
+          "tag": "Religious conversion",
+          "category": "no"
+        },
+        {
+          "tag": "Religious persecution",
+          "category": "no"
+        },
+        {
+          "tag": "Scholarships",
+          "category": "no"
+        },
+        {
+          "tag": "Short stories",
+          "category": "no"
+        },
+        {
+          "tag": "Smuggling--Alcohol",
+          "category": "no"
+        },
+        {
+          "tag": "Stereotypes",
+          "category": "no"
+        },
+        {
+          "tag": "Stock Market Crash, 1929",
+          "category": "no"
+        },
+        {
+          "tag": "Street names--Presidents",
+          "category": "no"
+        },
+        {
+          "tag": "Street names--Saints",
+          "category": "no"
+        },
+        {
+          "tag": "Tejano Music",
+          "category": "no"
+        },
+        {
+          "tag": "Texas Rangers",
+          "category": "no"
+        },
+        {
+          "tag": "The Great Depression",
+          "category": "no"
+        },
+        {
+          "tag": "Tuberculosis",
+          "category": "no"
+        },
+        {
+          "tag": "Voting--Law and legislation",
+          "category": "no"
+        },
+        {
+          "tag": "Western films",
+          "category": "no"
+        },
+        {
+          "tag": "World War, 1939-1945",
+          "category": "no"
+        },
+        {
+          "tag": "The Ballad of Gregorio Cortez--Film",
+          "category": "no"
+        },
+        {
+          "tag": "Ancestry",
+          "category": "no"
+        },
+        {
+          "tag": "Childhood Friends",
+          "category": "no"
+        },
+        {
+          "tag": "Colleagues",
+          "category": "no"
+        },
+        {
+          "tag": "Extended Family",
+          "category": "no"
+        },
+        {
+          "tag": "Friends",
+          "category": "no"
+        },
+        {
+          "tag": "Grandparents",
+          "category": "no"
+        },
+        {
+          "tag": "Hinojosa-Cisneros",
+          "category": "no"
+        },
+        {
+          "tag": "Immediate Family",
+          "category": "no"
+        },
+        {
+          "tag": "Mentors",
+          "category": "no"
+        },
+        {
+          "tag": "Vidal",
+          "category": "no"
+        },
+        {
+          "tag": "Bilinigualism",
+          "category": "no"
+        },
+        {
+          "tag": "Castaña--Storage",
+          "category": "no"
+        },
+        {
+          "tag": "Catalán",
+          "category": "no"
+        },
+        {
+          "tag": "Code switching",
+          "category": "no"
+        },
+        {
+          "tag": "English language rule",
+          "category": "no"
+        },
+        {
+          "tag": "French language",
+          "category": "no"
+        },
+        {
+          "tag": "Galicia language",
+          "category": "no"
+        },
+        {
+          "tag": "German language",
+          "category": "no"
+        },
+        {
+          "tag": "Language barrier",
+          "category": "no"
+        },
+        {
+          "tag": "Mojado",
+          "category": "no"
+        },
+        {
+          "tag": "Nahuatl",
+          "category": "no"
+        },
+        {
+          "tag": "Spanish idiom",
+          "category": "no"
+        },
+        {
+          "tag": "Spanish language",
+          "category": "no"
+        },
+        {
+          "tag": "Swahili language",
+          "category": "no"
+        },
+        {
+          "tag": "Wetback",
+          "category": "no"
+        },
+        {
+          "tag": "A Texas-Mexican Cancionero, Folksongs of the Lower Border",
+          "category": "no"
+        },
+        {
+          "tag": "Border City",
+          "category": "no"
+        },
+        {
+          "tag": "En defensa de mi raza",
+          "category": "no"
+        },
+        {
+          "tag": "George Washington Gomez",
+          "category": "no"
+        },
+        {
+          "tag": "Leaves of Grass",
+          "category": "no"
+        },
+        {
+          "tag": "The Chicano, From Caricature to Self-Portrait",
+          "category": "no"
+        },
+        {
+          "tag": "The Hammon and the Beans",
+          "category": "no"
+        },
+        {
+          "tag": "The Roadrunner in Fact and Folk-lore",
+          "category": "no"
+        },
+        {
+          "tag": "The Shadow",
+          "category": "no"
+        },
+        {
+          "tag": "The Texas-Mexican Conjunto",
+          "category": "no"
+        },
+        {
+          "tag": "With His Pistol in His Hand",
+          "category": "no"
+        },
+        {
+          "tag": "American Red Cross",
+          "category": "no"
+        },
+        {
+          "tag": "Armed Forces",
+          "category": "no"
+        },
+        {
+          "tag": "Brownsville Title Company",
+          "category": "no"
+        },
+        {
+          "tag": "Criminal Investigation Division",
+          "category": "no"
+        },
+        {
+          "tag": "LULAC-League of United Latin American Citizens",
+          "category": "no"
+        },
+        {
+          "tag": "Matthias Hohner AG",
+          "category": "no"
+        },
+        {
+          "tag": "Morning Star--Newspaper",
+          "category": "no"
+        },
+        {
+          "tag": "Pan American Airways",
+          "category": "no"
+        },
+        {
+          "tag": "The Brownsville Herald--Newspaper",
+          "category": "no"
+        },
+        {
+          "tag": "The Monitor--Newspaper",
+          "category": "no"
+        },
+        {
+          "tag": "The Texas Observer",
+          "category": "no"
+        },
+        {
+          "tag": "United Foods",
+          "category": "no"
+        },
+        {
+          "tag": "United States Air Force",
+          "category": "no"
+        },
+        {
+          "tag": "United States Army",
+          "category": "no"
+        },
+        {
+          "tag": "United States Navy",
+          "category": "no"
+        },
+        {
+          "tag": "Victor Talking Machine Company",
+          "category": "no"
+        },
+        {
+          "tag": "Anthropology",
+          "category": "no"
+        },
+        {
+          "tag": "Archeology",
+          "category": "no"
+        },
+        {
+          "tag": "Armed Forces College",
+          "category": "no"
+        },
+        {
+          "tag": "Bachelor of arts degree",
+          "category": "no"
+        },
+        {
+          "tag": "Black studies",
+          "category": "no"
+        },
+        {
+          "tag": "Brownsville Junior College",
+          "category": "no"
+        },
+        {
+          "tag": "California State University, Sacramento",
+          "category": "no"
+        },
+        {
+          "tag": "College education",
+          "category": "no"
+        },
+        {
+          "tag": "Doctor of philosophy degree",
+          "category": "no"
+        },
+        {
+          "tag": "Ethnic studies",
+          "category": "no"
+        },
+        {
+          "tag": "Folk Medicine",
+          "category": "no"
+        },
+        {
+          "tag": "Folklore",
+          "category": "no"
+        },
+        {
+          "tag": "Folklore Center",
+          "category": "no"
+        },
+        {
+          "tag": "High School",
+          "category": "no"
+        },
+        {
+          "tag": "Humanities",
+          "category": "no"
+        },
+        {
+          "tag": "Master of arts degree",
+          "category": "no"
+        },
+        {
+          "tag": "Mathematics",
+          "category": "no"
+        },
+        {
+          "tag": "Mexican-American studies",
+          "category": "no"
+        },
+        {
+          "tag": "Mexican-American Studies Center",
+          "category": "no"
+        },
+        {
+          "tag": "Pharmacology",
+          "category": "no"
+        },
+        {
+          "tag": "PhD",
+          "category": "no"
+        },
+        {
+          "tag": "Physical Anthropology",
+          "category": "no"
+        },
+        {
+          "tag": "Poetry Contest",
+          "category": "no"
+        },
+        {
+          "tag": "Public schools",
+          "category": "no"
+        },
+        {
+          "tag": "Screaming Eagles",
+          "category": "no"
+        },
+        {
+          "tag": "Socio-cultural Anthropology",
+          "category": "no"
+        },
+        {
+          "tag": "Sociolinguistics",
+          "category": "no"
+        },
+        {
+          "tag": "St Josephs--School",
+          "category": "no"
+        },
+        {
+          "tag": "The University of Texas",
+          "category": "no"
+        },
+        {
+          "tag": "Trinity College",
+          "category": "no"
+        },
+        {
+          "tag": "Accordion--Instrument",
+          "category": "no"
+        },
+        {
+          "tag": "Conjunto--Genre",
+          "category": "no"
+        },
+        {
+          "tag": "Corrido de Gregorio Cortez",
+          "category": "no"
+        },
+        {
+          "tag": "Corrido de Ignacio Treviño",
+          "category": "no"
+        },
+        {
+          "tag": "Corrido de Jacinto Treviño",
+          "category": "no"
+        },
+        {
+          "tag": "Corridos--Genre",
+          "category": "no"
+        },
+        {
+          "tag": "Folk song--Religious",
+          "category": "no"
+        },
+        {
+          "tag": "Guitar--Instrument",
+          "category": "no"
+        },
+        {
+          "tag": "Juventino Rosas--Waltz--Sobre Las Olas",
+          "category": "no"
+        },
+        {
+          "tag": "Musicians--Texas",
+          "category": "no"
+        },
+        {
+          "tag": "Polkas--Genre",
+          "category": "no"
+        },
+        {
+          "tag": "Radio",
+          "category": "no"
+        },
+        {
+          "tag": "Songwriting",
+          "category": "no"
+        },
+        {
+          "tag": "Grapefruit orchards",
+          "category": "no"
+        },
+        {
+          "tag": "Beach",
+          "category": "no"
+        },
+        {
+          "tag": "Reeds",
+          "category": "no"
+        },
+        {
+          "tag": "River",
+          "category": "no"
+        },
+        {
+          "tag": "Ranch",
+          "category": "no"
+        },
+        {
+          "tag": "Chaya",
+          "category": "no"
+        },
+        {
+          "tag": "Cotton fields",
+          "category": "no"
+        },
+        {
+          "tag": "Campfires",
+          "category": "no"
+        },
+        {
+          "tag": "Paredes, Américo 1915-1999",
+          "category": "no"
+        },
+        {
+          "tag": "Medrano, Manuel 1949-",
+          "category": "no"
+        },
+        {
+          "category": "no",
+          "tag": "Unidentified"
+        },
+        {
+          "category": "no",
+          "tag": "University of Texas"
+        },
+        {
+          "category": "no",
+          "tag": "Inquisition--Mexico"
+        },
+        {
+          "category": "no",
+          "tag": "Oral tradition"
+        },
+        {
+          "category": "no",
+          "tag": "English language language"
+        },
+        {
+          "category": "no",
+          "tag": "Bilingualismism"
+        },
+        {
+          "category": "no",
+          "tag": "Mexican Revolution, Mexico, 1910-1920"
+        },
+        {
+          "category": "no",
+          "tag": "Mexican Revolution, Mexico, 1923-1924"
+        },
+        {
+          "category": "no",
+          "tag": "English language language rule"
+        },
+        {
+          "category": "no",
+          "tag": "English language"
+        },
+        {
+          "category": "no",
+          "tag": "Bilingualism"
+        },
+        {
+          "category": "no",
+          "tag": "US Servicemens Readjustment Act of 1944"
+        },
+        {
+          "category": "no",
+          "tag": "Unidentified Nephew"
+        },
+        {
+          "category": "no",
+          "tag": "Paredes, Amelia Sidzu Nagamine"
+        },
+        {
+          "category": "no",
+          "tag": "Unidentified Man"
+        },
+        {
+          "category": "no",
+          "tag": "Zavaleta, Antonio 1947-"
+        },
+        {
+          "category": "no",
+          "tag": "St Josephs-School"
+        },
+        {
+          "category": "no",
+          "tag": "Unidentified man"
+        },
+        {
+          "category": "no",
+          "tag": "Publishing"
+        },
+        {
+          "category": "no",
+          "tag": "The Chicano, from Caricature to Self-Portrait"
+        },
+        {
+          "category": "no",
+          "tag": ""
+        },
+        {
+          "category": "no",
+          "tag": "Longfellow, Henry Wadsworth, 1807-1877"
+        },
+        {
+          "category": "no",
+          "tag": "Extended family"
+        },
+        {
+          "category": "no",
+          "tag": "Longfellow, Henry Wadsworth, 1807-1878"
+        },
+        {
+          "category": "no",
+          "tag": "Longfellow, Henry Wadsworth, 1807-1879"
+        },
+        {
+          "category": "no",
+          "tag": "Longfellow, Henry Wadsworth, 1807-1880"
+        },
+        {
+          "category": "no",
+          "tag": "Longfellow, Henry Wadsworth, 1807-1881"
+        },
+        {
+          "category": "no",
+          "tag": "Longfellow, Henry Wadsworth, 1807-1882"
+        },
+        {
+          "category": "no",
+          "tag": "Longfellow, Henry Wadsworth, 1807-1883"
+        },
+        {
+          "category": "no",
+          "tag": "Longfellow, Henry Wadsworth, 1807-1884"
+        },
+        {
+          "category": "no",
+          "tag": "Immediate family"
+        },
+        {
+          "category": "no",
+          "tag": "1994-09-22"
+        },
+        {
+          "category": "no",
+          "tag": "Border Troubles"
+        },
+        {
+          "category": "no",
+          "tag": "Paredes, Americo, 1915-1999"
+        },
+        {
+          "category": "no",
+          "tag": "Hinojosa-Smith, Rolando, 1929-2012"
+        },
+        {
+          "category": "no",
+          "tag": "Carvajal El Mozo, Luis de, 1567-1597"
+        },
+        {
+          "category": "no",
+          "tag": "Kenedy, Mifflin, 1818-1895"
+        },
+        {
+          "category": "no",
+          "tag": "Kenedy, Petra Vela, 1823-1885"
+        },
+        {
+          "category": "no",
+          "tag": "Vidal, Luis, 1813-1849"
+        },
+        {
+          "category": "no",
+          "tag": "Garza, Catarino, 1859-1895"
+        },
+        {
+          "category": "no",
+          "tag": "Diaz, Porfirio, 1830-1915"
+        },
+        {
+          "category": "no",
+          "tag": "Dobie, James Frank, 1888-1964"
+        },
+        {
+          "category": "no",
+          "tag": "Folk tales"
+        }
+      ]
+    },
+    "created_at": "2026-05-12T21:35:16.875Z",
+    "updated_at": "2026-05-13T21:17:37.177Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "7700101e-4379-4280-8f44-f3b901e5e053": {
+      "content": [],
+      "created_at": "2026-05-12T21:35:16.879Z",
+      "created_by": "luzgonz-glitch",
+      "title": "Americo Paredes Interviews",
+      "updated_at": "2026-05-12T21:35:16.879Z",
+      "updated_by": "luzgonz-glitch",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "7700101e-4379-4280-8f44-f3b901e5e053"
+  ]
+}
