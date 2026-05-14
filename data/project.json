@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "Tejano Music",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Texas Rangers",
           "category": "_uncategorized_"
         },
@@ -659,7 +655,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:11:06.422Z",
+    "updated_at": "2026-05-14T18:11:11.636Z",
     "generate_pages_site": true
   },
   "annotations": {},
