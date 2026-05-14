@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "1940",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "1944",
           "category": "_uncategorized_"
         },
@@ -1259,7 +1255,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:03:48.848Z",
+    "updated_at": "2026-05-14T18:03:51.527Z",
     "generate_pages_site": true
   },
   "annotations": {},
