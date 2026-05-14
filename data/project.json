@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "George Washington Gomez",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Leaves of Grass",
           "category": "_uncategorized_"
         },
@@ -515,7 +511,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:12:50.576Z",
+    "updated_at": "2026-05-14T18:12:52.817Z",
     "generate_pages_site": true
   },
   "annotations": {},
