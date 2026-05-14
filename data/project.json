@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "Pharmacology",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "PhD",
           "category": "_uncategorized_"
         },
@@ -343,7 +339,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:14:58.113Z",
+    "updated_at": "2026-05-14T18:15:00.575Z",
     "generate_pages_site": true
   },
   "annotations": {},
