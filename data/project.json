@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "Assimilation",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Attu, Battle of, Alaska, 1943",
           "category": "_uncategorized_"
         },
@@ -871,7 +867,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:08:37.358Z",
+    "updated_at": "2026-05-14T18:08:40.704Z",
     "generate_pages_site": true
   },
   "annotations": {},
