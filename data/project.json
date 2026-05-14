@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "Ranching",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Religious conversion",
           "category": "_uncategorized_"
         },
@@ -699,7 +695,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:10:43.478Z",
+    "updated_at": "2026-05-14T18:10:45.776Z",
     "generate_pages_site": true
   },
   "annotations": {},
