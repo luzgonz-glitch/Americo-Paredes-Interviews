@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "Short stories",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Smuggling--Alcohol",
           "category": "_uncategorized_"
         },
@@ -683,7 +679,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:10:52.683Z",
+    "updated_at": "2026-05-14T18:10:54.757Z",
     "generate_pages_site": true
   },
   "annotations": {},
