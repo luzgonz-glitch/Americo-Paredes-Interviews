@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "Garza, Jesus",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Garza, Orlando",
           "category": "_uncategorized_"
         },
@@ -1147,7 +1143,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:05:15.496Z",
+    "updated_at": "2026-05-14T18:05:17.938Z",
     "generate_pages_site": true
   },
   "annotations": {},
