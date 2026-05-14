@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "College education",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Doctor of philosophy degree",
           "category": "_uncategorized_"
         },
@@ -391,7 +387,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:14:19.394Z",
+    "updated_at": "2026-05-14T18:14:27.901Z",
     "generate_pages_site": true
   },
   "annotations": {},
