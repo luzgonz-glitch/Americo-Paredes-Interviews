@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "Armed Forces College",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Bachelor of arts degree",
           "category": "_uncategorized_"
         },
@@ -411,7 +407,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:14:06.457Z",
+    "updated_at": "2026-05-14T18:14:08.864Z",
     "generate_pages_site": true
   },
   "annotations": {},
