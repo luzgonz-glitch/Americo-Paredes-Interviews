@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "Religious conversion",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Religious persecution",
           "category": "_uncategorized_"
         },
@@ -695,7 +691,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:10:45.776Z",
+    "updated_at": "2026-05-14T18:10:48.074Z",
     "generate_pages_site": true
   },
   "annotations": {},
