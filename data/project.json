@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "Journalism",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Judaism",
           "category": "_uncategorized_"
         },
@@ -767,7 +763,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:10:00.836Z",
+    "updated_at": "2026-05-14T18:10:03.937Z",
     "generate_pages_site": true
   },
   "annotations": {},
