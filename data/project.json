@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "1915",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "1915-09-03",
           "category": "_uncategorized_"
         },
@@ -1291,7 +1287,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:03:21.785Z",
+    "updated_at": "2026-05-14T18:03:26.147Z",
     "generate_pages_site": true
   },
   "annotations": {},
