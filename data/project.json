@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "1580",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "1749",
           "category": "_uncategorized_"
         },
@@ -1311,7 +1307,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:03:08.221Z",
+    "updated_at": "2026-05-14T18:03:10.758Z",
     "generate_pages_site": true
   },
   "annotations": {},
