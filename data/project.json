@@ -41,10 +41,6 @@
           "category": "_uncategorized_"
         },
         {
-          "tag": "France--Paris",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Germany",
           "category": "_uncategorized_"
         },
@@ -1511,7 +1507,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T17:53:12.640Z",
+    "updated_at": "2026-05-14T17:53:15.880Z",
     "generate_pages_site": true
   },
   "annotations": {},
