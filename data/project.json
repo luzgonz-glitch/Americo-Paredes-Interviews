@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "Screaming Eagles",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Socio-cultural Anthropology",
           "category": "_uncategorized_"
         },
@@ -323,7 +319,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:15:10.697Z",
+    "updated_at": "2026-05-14T18:15:13.157Z",
     "generate_pages_site": true
   },
   "annotations": {},
