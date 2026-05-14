@@ -34,10 +34,6 @@
       "tags": [
         {
           "category": "_uncategorized_",
-          "tag": "Unidentified man"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Publishing"
         },
         {
@@ -139,7 +135,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:17:16.061Z",
+    "updated_at": "2026-05-14T18:17:18.201Z",
     "generate_pages_site": true
   },
   "annotations": {},
