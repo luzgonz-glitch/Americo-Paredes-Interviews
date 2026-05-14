@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "Brownsville Junior College",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "California State University, Sacramento",
           "category": "_uncategorized_"
         },
@@ -399,7 +395,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:14:13.714Z",
+    "updated_at": "2026-05-14T18:14:16.341Z",
     "generate_pages_site": true
   },
   "annotations": {},
