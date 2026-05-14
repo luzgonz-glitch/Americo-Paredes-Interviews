@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "Roosevelt, Franklin D 1882-1945",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Rosas, Juventino, 1868-1894",
           "category": "_uncategorized_"
         },
@@ -995,7 +991,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:06:50.202Z",
+    "updated_at": "2026-05-14T18:06:52.615Z",
     "generate_pages_site": true
   },
   "annotations": {},
