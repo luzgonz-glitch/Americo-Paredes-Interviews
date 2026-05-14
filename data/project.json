@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "Humanities",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Master of arts degree",
           "category": "_uncategorized_"
         },
@@ -363,7 +359,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:14:46.197Z",
+    "updated_at": "2026-05-14T18:14:48.836Z",
     "generate_pages_site": true
   },
   "annotations": {},
