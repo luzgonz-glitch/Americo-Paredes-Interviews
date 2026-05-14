@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "Black studies",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Brownsville Junior College",
           "category": "_uncategorized_"
         },
@@ -403,7 +399,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:14:11.356Z",
+    "updated_at": "2026-05-14T18:14:13.714Z",
     "generate_pages_site": true
   },
   "annotations": {},
