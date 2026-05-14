@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "Mexico--Tamaulipas--Mier",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "New Mexico",
           "category": "_uncategorized_"
         },
@@ -1451,7 +1447,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T17:54:37.155Z",
+    "updated_at": "2026-05-14T17:54:40.092Z",
     "generate_pages_site": true
   },
   "annotations": {},
