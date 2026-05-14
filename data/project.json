@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "Mexico--Tamaulipas",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Mexico--Tamaulipas--Matamoros",
           "category": "_uncategorized_"
         },
@@ -1459,7 +1455,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T17:54:27.211Z",
+    "updated_at": "2026-05-14T17:54:33.927Z",
     "generate_pages_site": true
   },
   "annotations": {},
