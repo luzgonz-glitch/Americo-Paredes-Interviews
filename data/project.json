@@ -33,10 +33,6 @@
       ],
       "tags": [
         {
-          "tag": "Hawkins, John, Sir 1532-1595",
-          "category": "_uncategorized_"
-        },
-        {
           "tag": "Hinojosa-Smith, Rolando 1929-2012",
           "category": "_uncategorized_"
         },
@@ -1135,7 +1131,7 @@
       ]
     },
     "created_at": "2026-05-12T21:35:16.875Z",
-    "updated_at": "2026-05-14T18:05:22.500Z",
+    "updated_at": "2026-05-14T18:05:28.757Z",
     "generate_pages_site": true
   },
   "annotations": {},
